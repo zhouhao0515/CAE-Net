@@ -4,4 +4,4 @@ This is the code for our CAE-Net from "Not the Statistical Bias, Mining the Esse
 
 We have uploaded the core codes of our CF braches and MHD loss. 
 
-The complete code and trained models will be re-organized and uploaded as soon as possible!
+The complete codes and trained models will be re-organized and uploaded as soon as possible!
